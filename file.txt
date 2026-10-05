@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git Hi file 
+=======
+Hi file 
+>>>>>>> new-feature-990
 byyyyyyy
