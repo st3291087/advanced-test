@@ -8,3 +8,6 @@ const b=()=>{
 
 
 }
+const e=()=>{
+   console.log("func e from main")
+}
