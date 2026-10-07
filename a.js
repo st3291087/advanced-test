@@ -8,6 +8,12 @@ const b=()=>{
 
 
 }
+
+const c=()=>{
+   console.log("func c from pr1-feature")
+
+
 const e=()=>{
    console.log("func e from main")
+
 }
