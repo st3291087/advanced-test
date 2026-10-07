@@ -8,3 +8,6 @@ const b=()=>{
 
 
 }
+const d=()=>{
+   alert("this is from pr2-feature")
+}
